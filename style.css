@@ -1,0 +1,118 @@
+h6{
+    padding-top: 4px;
+}
+.info2:hover{
+ color: blue;
+}
+a{
+    text-decoration: none;
+}
+.all{
+    background-color: rgb(162, 194, 221);
+    padding: 0%;
+}
+h3>a{
+    text-decoration: none;
+}
+p{
+    font-size: larger;
+}
+
+#back1{
+    background-color: rgb(162, 194, 221);
+}
+
+h6{
+    padding-top: 12px;
+    margin: 0;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+.informations{
+    display: flex;
+    justify-content: center;
+    
+    flex-direction: column;
+}
+.informations > a{
+    background-color: rgb(236, 95, 44);
+    color: aliceblue;
+    width: 30%;
+}
+#back2{
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.informations2 >a{
+    background-color: rgb(56, 22, 191);
+    color: aliceblue;
+    width: 30%;
+}
+.informations2{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.image{
+    text-align: center;
+    width: 60%;
+}
+#back3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(162, 194, 221);
+}
+#back4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(230, 235, 239);
+}
+.card{
+    box-shadow: 0  0 12px  5px rgba(150, 148, 148, 0.601);
+}
+.all2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.all3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.informations2 >.cenetring{
+    justify-content: center;
+    width: 20%;
+    
+}
+footer{
+    background-color: rgb(4, 4, 60);
+}
+.golal3{
+  text-align: center;
+  color: orangered;
+}
+.card:hover{
+    transform: scale(1.1); 
+}
+
+
+.all3:hover{
+    transform: scale(1.1);
+   
+}
